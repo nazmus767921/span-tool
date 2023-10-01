@@ -44,5 +44,4 @@ const searchResultsWithHighlights = searchResults.map((searchResult) => {
 console.log(searchResultsWithHighlights); // Outputs: ["This is the <span class="search-highlight">search</span> result.", "This is the second <span class="search-highlight">search</span> result.", "This is the third <span class="search-highlight">search</span> result."]
 
 ```
-
-_developer_: [`github.com/nazmus767921`](github.com/nazmus767921)
+*developer*: [`github.com/nazmus767921`](github.com/nazmus767921)
