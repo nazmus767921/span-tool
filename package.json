@@ -1,0 +1,22 @@
+{
+  "name": "span-tool",
+  "version": "1.0.0",
+  "description": "A React component that wraps a span of text in a span element with a given class name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazmus767921/span-tool.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nazmus Sakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazmus767921/span-tool/issues"
+  },
+  "homepage": "https://github.com/nazmus767921/span-tool#readme"
+}
